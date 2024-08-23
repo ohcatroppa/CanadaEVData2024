@@ -1,0 +1,64 @@
+Mode,Powertrain,Vehicle + Powertrain,Year,Number of Vehicles,,,
+Trucks,BEV,Trucks BEV,2010,1,,,
+Cars,BEV,Cars BEV,2011,220,,,
+Trucks,BEV,Trucks BEV,2011,2,,Total Cars Sold,564984
+Cars,PHEV,Cars PHEV,2011,300,,Total Trucks Sold,2957
+Cars,BEV,Cars BEV,2012,620,,Total Vans Sold,31515
+Trucks,BEV,Trucks BEV,2012,3,,,
+Cars,PHEV,Cars PHEV,2012,1300,,Total BEV Sold,420104
+Cars,BEV,Cars BEV,2013,1600,,Total PHEV Sold,180405
+Trucks,BEV,Trucks BEV,2013,8,,Total FCEV Sold,324
+Cars,PHEV,Cars PHEV,2013,1500,,,
+Cars,BEV,Cars BEV,2014,2800,,Highest QTY of Vehicles Ever Sold,130000
+Trucks,BEV,Trucks BEV,2014,6,,,
+Cars,PHEV,Cars PHEV,2014,2300,,,
+Cars,BEV,Cars BEV,2015,4400,,Buses BEV,1377
+Trucks,BEV,Trucks BEV,2015,9,,Cars BEV,395540
+Vans,BEV,Vans BEV,2015,1,,Trucks BEV,2886
+Cars,PHEV,Cars PHEV,2015,2400,,Vans BEV,20301
+Vans,PHEV,Vans PHEV,2015,5,,Cars PHEV,169200
+Vans,FCEV,Vans FCEV,2015,9,,Vans PHEV,11205
+Buses,BEV,Buses BEV,2016,5,,Trucks FCEV,71
+Cars,BEV,Cars BEV,2016,5200,,,
+Cars,PHEV,Cars PHEV,2016,6400,,,
+Buses,BEV,Buses BEV,2017,11,,,
+Cars,BEV,Cars BEV,2017,8700,,,
+Cars,PHEV,Cars PHEV,2017,8000,,,
+Buses,BEV,Buses BEV,2018,19,,,
+Cars,BEV,Cars BEV,2018,23000,,,
+Trucks,BEV,Trucks BEV,2018,7,,,
+Cars,PHEV,Cars PHEV,2018,21000,,,
+Buses,BEV,Buses BEV,2019,49,,,
+Cars,BEV,Cars BEV,2019,32000,,,
+Cars,PHEV,Cars PHEV,2019,19000,,,
+Cars,FCEV,Cars FCEV,2019,79,,,
+Buses,BEV,Buses BEV,2020,63,,,
+Cars,BEV,Cars BEV,2020,37000,,,
+Vans,BEV,Vans BEV,2020,1600,,,
+Cars,PHEV,Cars PHEV,2020,14000,,,
+Vans,PHEV,Vans PHEV,2020,1400,,,
+Cars,FCEV,Cars FCEV,2020,16,,,
+Trucks,FCEV,Trucks FCEV,2020,7,,,
+Buses,BEV,Buses BEV,2021,250,,,
+Cars,BEV,Cars BEV,2021,59000,,,
+Trucks,BEV,Trucks BEV,2021,20,,,
+Vans,BEV,Vans BEV,2021,2600,,,
+Cars,PHEV,Cars PHEV,2021,28000,,,
+Vans,PHEV,Vans PHEV,2021,2600,,,
+Trucks,FCEV,Trucks FCEV,2021,28,,,
+Cars,FCEV,Cars FCEV,2021,130,,,
+Buses,BEV,Buses BEV,2022,190,,,
+Cars,BEV,Cars BEV,2022,91000,,,
+Trucks,BEV,Trucks BEV,2022,830,,,
+Vans,BEV,Vans BEV,2022,7000,,,
+Cars,PHEV,Cars PHEV,2022,24000,,,
+Vans,PHEV,Vans PHEV,2022,3100,,,
+Cars,FCEV,Cars FCEV,2022,19,,,
+Trucks,FCEV,Trucks FCEV,2022,18,,,
+Buses,BEV,Buses BEV,2023,790,,,
+Cars,BEV,Cars BEV,2023,130000,,,
+Trucks,BEV,Trucks BEV,2023,2000,,,
+Vans,BEV,Vans BEV,2023,9100,,,
+Cars,PHEV,Cars PHEV,2023,41000,,,
+Vans,PHEV,Vans PHEV,2023,4100,,,
+Trucks,FCEV,Trucks FCEV,2023,18,,,
